@@ -1,0 +1,15 @@
+
+1) Tell me how to remove them locally and remotely:
+
+a) locally: 	git branch -d dev
+b) remotely:	git push origin :dev
+
+
+
+2) Tell me how to checkout another branch without
+commit changes
+
+step 1: git stash
+step 2: git chick out main
+
+
